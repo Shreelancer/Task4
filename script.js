@@ -29,7 +29,7 @@ function ValidateUser(inputText,password)
             }
             else{
                if(password.value == "SmartServTest@123"){
-                       alert("Valid User please enter Dashboard page from this link:-");
+                       alert("Valid User please enter Dashboard page from this link:- https://shreelancer.github.io/Task4/dashboard.html");
                }
                else{
                    alert("Wrong Password please Check!");

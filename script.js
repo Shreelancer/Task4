@@ -29,7 +29,7 @@ function ValidateUser(inputText,password)
             }
             else{
                if(password.value == "SmartServTest@123"){
-                    window.location.assign("");
+                       alert("Valid User please enter Dashboard page from this link:-");
                }
                else{
                    alert("Wrong Password please Check!");

@@ -1,0 +1,33 @@
+body{
+    background-color: lightgray;
+    margin: 0%;
+}
+h2{
+    margin: 2%;
+}
+.row1{
+    border-left: 10px solid #42be9a;
+    background-color: white;
+    height: 100px;
+    margin-left: 2%;
+}
+.row2{
+    border-left: 10px solid #42be9a;
+    background-color: white;
+    margin-left: 2%;
+    margin-top: 2%;
+    height: 100px;
+}
+.cont2{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.row200{
+    background-color: white;
+    height: 300px;
+    margin-left: 2%;
+}
+.container{
+    max-width: 95%;
+
+}
